@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<extensions>
+ <details>
+  <title lang="EN">Chincheta's LMS Plugins</title>
+ </details>
+ <plugins>
+  <plugin name="SqueezeCEC" version="0.0.1" minTarget="7.9.0" maxTarget="*">
+   <title lang="EN">SqueezeCEC</title>
+   <desc lang="EN">Use Squeezelite to steer a CEC device</desc>
+   <url>https://raw.githubusercontent.com/chincheta0815/vaulter/master/lms-plugins/pkgs/SqueezeCEC-0.0.1.zip</url>
+   <sha>46b6a7aa300c81e55f835fa1d706b75e33b527ee</sha>
+   <creator>chincheta0815</creator>
+  </plugin>
+ </plugins>
+</extensions>

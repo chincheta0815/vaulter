@@ -1,0 +1,15 @@
+<?xml version='1.0' standalone='yes'?>
+<extensions>
+  <defaultState>enabled</defaultState>
+  <email>me@internet.com</email>
+  <targetApplication>
+    <minVersion>7.9</minVersion>
+    <maxVersion>*</maxVersion>
+    <id>SlimServer</id>
+  </targetApplication>
+  <name>PLUGIN_SQUEEZECEC</name>
+  <description>PLUGIN_SQUEEZECEC_DESC</description>
+  <module>Plugins::SqueezeCEC::Plugin</module>
+    <version>0.0.1</version>
+  <creator>chincheta0815</creator>
+</extensions>

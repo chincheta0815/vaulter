@@ -1,0 +1,6 @@
+PLUGIN_SQUEEZECEC
+	EN	SqueezeCEC
+
+PLUGIN_SQUEEZECEC_DESC
+	DE	Konfiguriert eine neue Player ID (42), um CEC zu unterstützen
+	EN	Adds a new player id (42) to enable proper CEC connectivity
