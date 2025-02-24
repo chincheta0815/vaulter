@@ -1,0 +1,35 @@
+#
+# The two letter codes are defined by ISO 639-1
+# http://en.wikipedia.org/wiki/List_of_ISO_639_codes
+#
+
+
+BSP_SCREEN_LOCKED
+	CS	Zamčeno
+	DA	Låst
+	DE	Gesperrt
+	EN	Locked
+	ES	Bloqueado
+	FI	Lukittu
+	FR	Verrouillé
+	IT	Bloccato
+	NL	Vergrendeld
+	NO	Låst
+	PL	Zablokowane
+	RU	Блокировано
+	SV	Låst
+
+BSP_SCREEN_LOCKED_HELP
+	CS	K odemčení stiskněte současně tlačítka Add (přidat) a Play.
+	DA	Du låser op ved at trykke samtidig på ADD og PLAY (tilføj og afspil).
+	DE	Drücken Sie zum Aufheben der Sperre gleichzeitig ADD und PLAY.
+	EN	To unlock, press the add and play buttons at the same time.
+	ES	Para desbloquear, pulse los botones de agregación y reproducción simultáneamente.
+	FI	Vapauta lukitus painamalla lisäys- ja toistopainikkeita samaan aikaan.
+	FR	Pour déverrouiller, appuyez sur les boutons AJOUTER et LECTURE simultanément.
+	IT	Per sbloccare, premere contemporaneamente i pulsanti di aggiunta e di riproduzione.
+	NL	Druk de knoppen ADD en PLAY tegelijk in voor ontgrendeling.
+	NO	Trykk på Legg til- og Spill av-knappene samtidig for å låse opp.
+	PL	Aby odblokować, naciśnij jednocześnie przyciski dodawania i odtwarzania.
+	RU	Чтобы разблокировать, одновременно нажмите кнопки ADD и PLAY.
+	SV	Tryck på plusknappen och uppspelningsknappen samtidigt när du vill avaktivera låset.
